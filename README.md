@@ -29,13 +29,13 @@
 ---
 
 ### Plurality
-_Archive:_ [Plurality.c](../blob/master/LICENSE)
+_Archive:_ [Plurality.c](../blob/Week3/plurality.c)
 
 ### Runoff
-_Archive:_ [Runoff.c](../blob/master/LICENSE)
+_Archive:_ [Runoff.c](../blob/Week3/runoff.c)
 
-### Plurality
-_Archive:_ [Tideman.c](../blob/master/LICENSE)
+### Tideman
+_Archive:_ [Tideman.c](../blob/Week3/tideman.c)
 
 # Week 4
 
