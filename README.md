@@ -29,7 +29,7 @@
 ---
 
 ### Plurality
-_Archive:_ [Plurality.c](../blob/master/LICENSE)
+_Archive:_ [Plurality.c](../blob/Week3/plurality.c)
 
 ### Runoff
 _Archive:_ [Runoff.c](../blob/master/LICENSE)
