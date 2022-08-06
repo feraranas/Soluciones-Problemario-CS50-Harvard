@@ -28,6 +28,15 @@
 ### Problem Set 3
 ---
 
+### Plurality
+_Archive:_ [Plurality.c](../blob/master/LICENSE)
+
+### Runoff
+_Archive:_ [Runoff.c](../blob/master/LICENSE)
+
+### Plurality
+_Archive:_ [Tideman.c](../blob/master/LICENSE)
+
 # Week 4
 
 ### Lab 4
