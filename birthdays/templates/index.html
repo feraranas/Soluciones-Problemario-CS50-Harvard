@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="/static/styles.css" rel="stylesheet">
+        <title>Birthdays</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Birthdays</h1>
+        </div>
+        <div class="container">
+            <div class="section">
+
+                <h2>Add a Birthday</h2>
+                <!-- TODO: Create a form for users to submit a name, a month, and a day -->
+                <form method="post" action="/">
+                    <label> Name: </label> <input name="name" type="text">
+                    <label> Month: </label> <input name="month" type="number" min="1" max="12">
+                    <label> Day: </label> <input name="day" type="number" min="1" max="31">
+                    <input type="submit">
+                </form>
+            </div>
+
+            <div class="section">
+
+                <h2>All Birthdays</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Month</th>
+                            <th>Day</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- TODO: Loop through the database entries to display them in this table -->
+                        {% for birthday in birthdays %}
+                        <tr>
+                            <td> {{birthday["name"]}} </td>
+                            <td> {{birthday.month}} </td>
+                            <td> {{birthday.day}} </td>
+                            <td>
+                                <form action="/erase" method="post">
+                                    <input name="id" type="hidden" value="{{ birthday.id }}">
+                                    <input type="submit" value="Erase">
+                                </form>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

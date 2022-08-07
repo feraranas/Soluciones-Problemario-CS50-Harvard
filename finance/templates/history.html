@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col"> Symbol </th>
+                <th scope="col"> Shares </th>
+                <th scope="col"> Price </th>
+                <th scope="col"> Transacted </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for stock in stocks %}
+            <tr>
+                <td> {{ stock.symbol }} </td>
+                {% if stock.status == "buy" %}
+                    <td> {{ stock.shares }} </td>
+                {% elif stock.status == "sell" %}
+                    <td> -{{ stock.shares}} </td>
+                {% endif %}
+                <td> {{ stock.price | usd }} </td>
+                <td> {{ stock.time }} </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

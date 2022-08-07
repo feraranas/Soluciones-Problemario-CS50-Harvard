@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <p style="text-center">The {{ stock.name }} company's ({{ stock.symbol }}) value is {{ stock.price }}</p>
+{% endblock %}
