@@ -101,7 +101,7 @@ _Archive:_ [Speller](../Week5/speller)
 ---
 
 ### Lab6
-_Archive:_ [Lab6](../Week6/lab6)
+_Archive:_ [Lab6](../Week6/Worldcup)
 
 ### Problem Set 6
 ---
