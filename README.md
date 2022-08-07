@@ -70,16 +70,16 @@ _Archive:_ [Tideman.c](../Week3/tideman.c)
 ---
 
 ### Volume
-_Archive:_ [Tideman.c](../Week4/volume.c)
+_Archive:_ [Volume.c](../Week4/volume.c)
 
 ### Problem Set 4
 ---
 
 ### Filter
-_Archive:_ [Tideman.c](../Week4/filter)
+_Archive:_ [/Filter](../Week4/filter)
 
 ### Recover
-_Archive:_ [Tideman.c](../Week4/recover.c)
+_Archive:_ [Recover.c](../Week4/recover.c)
 
 # Week 5
 
