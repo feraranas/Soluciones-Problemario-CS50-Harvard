@@ -132,8 +132,8 @@ _Archive:_ [Dna](../Week6/dna)
 ### Lab 7
 ---
 
-### SQL Queries
-_Archive:_ [SQL](../Week7/sql)
+### Songs
+_Archive:_ [Songs](../Week7/songs)
 
 ### Problem Set 7
 ---
@@ -141,13 +141,16 @@ _Archive:_ [SQL](../Week7/sql)
 ### Fiftyville
 _Archive:_ [Fiftyville](../Week7/answers.txt)
 
-### Movies SQL Queries
+### Movies
 _Archive:_ [Movies](../Week7/movies)
 
 # Week 8
 
 ### Lab 8
 ---
+
+### Trivia
+_Archive:_ [Songs](../Week8/trivia)
 
 # Week 9
 
