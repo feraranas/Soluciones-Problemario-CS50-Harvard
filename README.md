@@ -76,7 +76,7 @@ _Archive:_ [Volume.c](../Week4/volume.c)
 ---
 
 ### Filter
-_Archive:_ [/Filter](../Week4/filter)
+_Archive:_ [Filter](../Week4/filter)
 
 ### Recover
 _Archive:_ [Recover.c](../Week4/recover.c)
@@ -86,31 +86,67 @@ _Archive:_ [Recover.c](../Week4/recover.c)
 ### Lab 5
 ---
 
+### Inheritance
+_Archive:_ [Inheritance.c](../Week5/inheritance.c)
+
 ### Problem Set 5
 ---
+
+### Speller
+_Archive:_ [Speller](../Week5/speller)
 
 # Week 6
 
 ### Lab 6
 ---
 
+### Lab6
+_Archive:_ [Lab6](../Week6/lab6)
+
 ### Problem Set 6
 ---
+
+### Hello
+_Archive:_ [Hello](../Week6/hello.py)
+
+### Mario Less comfortable
+_Archive:_ [Marioless](../Week6/marioless.py)
+
+### Mario
+_Archive:_ [Mario](../Week6/mario.py)
+
+### Cash
+_Archive:_ [Cash](../Week6/cash.py)
+
+### Credit
+_Archive:_ [Credit](../Week6/credit.py)
+
+### Readability
+_Archive:_ [Readability](../Week6/readability.py)
+
+### Dna
+_Archive:_ [Dna](../Week6/dna)
 
 # Week 7
 
 ### Lab 7
 ---
 
+### SQL Queries
+_Archive:_ [SQL](../Week7/sql)
+
 ### Problem Set 7
 ---
+
+### Fiftyville
+_Archive:_ [Fiftyville](../Week7/answers.txt)
+
+### Movies SQL Queries
+_Archive:_ [Movies](../Week7/movies)
 
 # Week 8
 
 ### Lab 8
----
-
-### Problem Set 8
 ---
 
 # Week 9
@@ -118,13 +154,11 @@ _Archive:_ [Recover.c](../Week4/recover.c)
 ### Lab 9
 ---
 
+### Birthdays
+_Archive:_ [Birthdays](../Week9/birthdays)
+
 ### Problem Set 9
 ---
 
-# Week 10
-
-### Lab 10
----
-
-### Problem Set 10
----
+### Finance
+_Archive:_ [Finance](../Week9/finance)
