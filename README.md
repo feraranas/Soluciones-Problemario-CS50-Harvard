@@ -50,7 +50,7 @@ _Archive:_ [Substitution.c](../Week2/substitution.c)
 ---
 
 ### Sort
-_Archive:_ [Sort.txt](../Week2/answers.txt)
+_Archive:_ [Sort.txt](../Week3/answers.txt)
 
 ### Problem Set 3
 ---
@@ -69,8 +69,17 @@ _Archive:_ [Tideman.c](../Week3/tideman.c)
 ### Lab 4
 ---
 
+### Volume
+_Archive:_ [Tideman.c](../Week4/volume.c)
+
 ### Problem Set 4
 ---
+
+### Filter
+_Archive:_ [Tideman.c](../Week4/filter)
+
+### Recover
+_Archive:_ [Tideman.c](../Week4/recover.c)
 
 # Week 5
 
