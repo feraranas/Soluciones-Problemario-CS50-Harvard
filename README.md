@@ -150,7 +150,7 @@ _Archive:_ [Movies](../Week7/movies)
 ---
 
 ### Trivia
-_Archive:_ [Songs](../Week8/trivia)
+_Archive:_ [Trivia](../Week8/trivia)
 
 # Week 9
 
