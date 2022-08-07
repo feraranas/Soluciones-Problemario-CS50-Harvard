@@ -100,8 +100,8 @@ _Archive:_ [Speller](../Week5/speller)
 ### Lab 6
 ---
 
-### Lab6
-_Archive:_ [Lab6](../Week6/worldcup)
+### Worldcup
+_Archive:_ [Worldcup](../Week6/worldcup)
 
 ### Problem Set 6
 ---
